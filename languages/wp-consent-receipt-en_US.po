@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Consent Receipt\n"
+"POT-Creation-Date: 2016-09-05 02:24-0300\n"
+"PO-Revision-Date: 2016-09-05 02:24-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-consent-receipt.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wp-consent-receipt.php:154
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#. Plugin Name of the plugin/theme
+msgid "WP Consent Receipt"
+msgstr "WP Consent Receipt"
+
+#. Plugin URI of the plugin/theme
+msgid "https://olivermaerz.github.io/wp-consent-receipt/"
+msgstr "https://olivermaerz.github.io/wp-consent-receipt/"
+
+#. Description of the plugin/theme
+msgid "Consent Receipt Plugin for WordPress"
+msgstr "Consent Receipt Plugin for WordPress"
+
+#. Author of the plugin/theme
+msgid "Oliver Maerz"
+msgstr "Oliver Maerz"
+
+#. Author URI of the plugin/theme
+msgid "http://www.olivermaerz.com"
+msgstr "http://www.olivermaerz.com"
+
+#. consent receipt fields
+msgid "version"
+msgstr "Version"
+
+#. consent receipt fields
+msgid "jurisdiction"
+msgstr "Jurisdiction"
+
+#. consent receipt fields
+msgid "iat"
+msgstr "Consent Time Stamp"
+
+#. consent receipt fields
+msgid "moc"
+msgstr "Collection Method"
+
+#. consent receipt fields
+msgid "jti"
+msgstr "Receipt ID"
+
+#. consent receipt fields
+msgid "publicKey"
+msgstr "Public Key"
+
+#. consent receipt fields
+msgid "onBehalf"
+msgstr "On Behalf"
+
+#. consent receipt fields
+msgid "contact"
+msgstr "Contact Name"
+
+#. consent receipt fields
+msgid "company"
+msgstr "Company"
+
+#. consent receipt fields
+msgid "address"
+msgstr "Contact Address"
+
+#. consent receipt fields
+msgid "email"
+msgstr "Contact Email"
+
+#. consent receipt fields
+msgid "phone"
+msgstr "Contact Phone"
+
+#. consent receipt fields
+msgid "policyUri"
+msgstr "Privacy Policy"
+
+#. consent receipt fields
+msgid "services"
+msgstr "Services"
+
+#. consent receipt fields
+msgid "purposes"
+msgstr "Purposes"
+
+#. consent receipt fields
+msgid "serviceName"
+msgstr "Service"
+
+#. consent receipt fields
+msgid "purpose"
+msgstr "Purpose"
+
+#. consent receipt fields
+msgid "piiCategory"
+msgstr "PI Categories"
+
+#. consent receipt fields
+msgid "purposeCategory"
+msgstr "Purpose Category"
+
+#. consent receipt fields
+msgid "consentType"
+msgstr "Consent Type"
+
+#. consent receipt fields
+msgid "sub"
+msgstr "PII Principal ID"
+
+#. consent receipt fields
+msgid "sensitive"
+msgstr "Sensitive Data"
+
+#. consent receipt fields
+msgid "spiCat"
+msgstr "PII Sensitive Category"
+
+#. consent receipt fields
+msgid "nonCorePurpose"
+msgstr "Non Core Purpose"
+
+#. consent receipt fields
+msgid "purposeTermination"
+msgstr "Purpose Termination"
+
+#. consent receipt fields
+msgid "thirdPartyDisclosure"
+msgstr "3rd Party Disclosure"
+
+#. consent receipt fields
+msgid "3rdPartyName"
+msgstr "Third Party"
+
+#. consent receipt fields
+msgid "dataController"
+msgstr "PII Controller"
+
+#. Show Consent Receipt Button
+msgid "Show Consent Receipt"
+msgstr "Show Consent Receipt"
+
+#. Download Consent Receipt Button
+msgid "Download Consent Receipt"
+msgstr "Download Consent Receipt"
+
+#. Email with receipt text
+msgid "Attached your Consent Receipt for"
+msgstr "Attached your Consent Receipt for"
+
+#~ msgid "x"
+#~ msgstr "x"
